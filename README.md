@@ -15,6 +15,7 @@ Accurate demand forecasting enables retailers to:
 - Support promotion and replenishment planning
 
 **3. Dataset**
+
 The project uses the Walmart - Super Market Dataset on Kaggle.
 Three datasets are included:
 - `train.csv`
@@ -40,6 +41,7 @@ requirements.txt
 ```
 
 **6. Current Progress**
+
 Completed:
 - Data understanding
 - Exploratory Data Analysis (EDA)
