@@ -2,10 +2,12 @@
 Forecast weekly sales for each Store–Department combination to improve inventory planning, reduce stockouts, and minimize excess inventory.
 
 **1. Project Overview**
+
 This project develops an end-to-end demand forecasting pipeline to predict weekly sales for each Walmart Store–Department combination. The objective is to improve inventory planning, reduce stockouts, minimize excess inventory, and support data-driven retail decision-making.
 This project is currently in progress and follows a complete Data Science workflow, including data understanding, exploratory data analysis, feature engineering, forecasting model development, model evaluation, and business recommendations.
 
 **2. Business Problem**
+
 Accurate demand forecasting enables retailers to:
 - Improve inventory planning
 - Reduce stockouts and overstock situations
