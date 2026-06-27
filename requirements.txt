@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+
+# Forecasting models
+xgboost
+
+# Explainability
+shap
