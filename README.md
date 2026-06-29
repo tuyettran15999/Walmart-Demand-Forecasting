@@ -26,8 +26,8 @@ Three datasets are included:
 - ✅ Data Understanding
 - ✅ Exploratory Data Analysis
 - ✅ Feature Engineering
-- ⏳ Forecasting Model Development
-- ⏳ Model Evaluation
+- ✅ Baseline Forecasting
+- ⏳ Machine Learning Models
 - ⏳ Business Insights & Recommendations
 
 **5. Repository Structure**
